@@ -1,0 +1,18 @@
+.card-style:hover {
+    box-shadow: 2px 4px 4px 2px rgb(246, 234, 234);
+}
+
+.card-style {
+  
+}
+
+.card-title {
+    font-weight: 650;
+    font-size: 1.3em;
+}
+
+.tag {
+    border: 1px solid black;
+    height: fit-content;
+    border-radius: 20px;
+}

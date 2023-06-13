@@ -1,0 +1,21 @@
+.nav_ {
+    display: flex;
+    height: 5em;
+    width: 100%;
+    background-color: aqua;
+    border: 1px solid black;
+    position: absolute;
+    top: 0%;
+    justify-content: space-between;
+}
+
+.navItem {
+    flex-basis: 20%;
+    display: flex;
+}
+
+button {
+    height: fit-content;
+    background-color: white;
+    margin-top: 10px;
+}
